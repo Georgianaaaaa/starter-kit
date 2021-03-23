@@ -1,0 +1,7 @@
+{
+  "challenge_id": "snake-species-identification-challenge",
+  "grader_id": "snake-species-identification-challenge",
+  "authors": [ "GeorgianaCoca" ],
+  "description": "Snakes Random Agent",
+  "debug": "true"
+}
